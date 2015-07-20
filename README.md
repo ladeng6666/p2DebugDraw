@@ -1,2 +1,3 @@
 # p2DebugDraw
-easy to make p2 simulate result viewable and debuggable.
+Easy to make p2 simulate result viewable and debuggable.
+* p2DebugDraw.ts based [Egret engine](https://github.com/egret-labs/egret-core) 
